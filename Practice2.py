@@ -1,0 +1,7 @@
+a = float(input("Enter the first int: "))
+b = float(input("Enter the second int: "))
+print("a+b=", a+b)
+print("a*b=", a*b)
+print("a/b=", a/b)
+print("a-b=", a-b)
+print("Done:)")
